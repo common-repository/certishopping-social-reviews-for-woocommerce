@@ -1,0 +1,177 @@
+# Translation of Plugins - Certishopping Customer Reviews for WooCommerce - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Customer Reviews for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugins - Certishopping Customer Reviews for WooCommerce - Stable (latest release)\n"
+"POT-Creation-Date: 2020-12-15\n"
+"PO-Revision-Date: 2023-05-08 12:10+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 2.3\n"
+
+msgid "Certishopping Settings"
+msgstr "Configuration certishopping"
+
+msgid "To customize the look and feel of the widget and to edit your Mail After Purchase settings,just head to the"
+msgstr "Pour personnaliser l'aspect et la convivialité du widget  et pour modifier vos paramètres de courrier après l'achat,rendez-vous simplement sur"
+
+msgid "Set your API key in order the Certishopping plugin to work correctly"
+msgstr "Paramétrez votre clé API pour que le plugin Certishopping fonctionne correctement"
+
+msgid "Select widget location"
+msgstr "Sélectionnez l'emplacement du widget"
+
+msgid "Page footer"
+msgstr "Pied de page"
+
+msgid "Tab"
+msgstr "Tab"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Select tab name:"
+msgstr "Sélectionnez nom de tab:"
+
+msgid "Your website ID:"
+msgstr "Votre identifiant de site:"
+
+msgid "App key:"
+msgstr "Clé app:"
+
+msgid "Secret Key:"
+msgstr "Clé Secrète:"
+
+msgid "Enable bottom line in product page:"
+msgstr "Affichez les étoiles sur la fiche de produit:"
+
+msgid "Enable rich snippet: "
+msgstr "Activer rich snippet: "
+
+msgid "Enable widget reviews modal:"
+msgstr "Affichez le modal:"
+
+msgid "Widget reviews modal Style:"
+msgstr "Sélectionnez un modèle pour badge:"
+
+msgid "Horizontal"
+msgstr "Horizontal"
+
+msgid "Vertical"
+msgstr "Vertical"
+
+msgid "Starter"
+msgstr "Starter"
+
+msgid "Starter horizontal"
+msgstr "Starter horizontal"
+
+msgid "Mini"
+msgstr "Mini"
+
+msgid "Widget reviews modal Position"
+msgstr "Sélectionnez l'emplacement pour badge"
+
+msgid "Middle Left"
+msgstr "Milieu gauche"
+
+msgid "Bottom Left"
+msgstr "En bas à gauche"
+
+msgid "Middle Right"
+msgstr "Milieu droite"
+
+msgid "Bottom Right"
+msgstr "En bas à droite"
+
+msgid "Enable bottom line in category page:"
+msgstr "Affichez les étoiles sur la fiche catégorie:"
+
+msgid "Order Status:"
+msgstr "Statut des commandes:"
+
+msgid "Completed"
+msgstr "Terminée"
+
+msgid "Pending Payment"
+msgstr "En attente de paiement"
+
+msgid "Processing"
+msgstr "En traitement"
+
+msgid "On Hold "
+msgstr "En attente "
+
+msgid "Cancelled"
+msgstr "Annulé"
+
+msgid "Refunded"
+msgstr "Remboursé"
+
+msgid "Failed"
+msgstr "Échoué"
+
+msgid "Nb Orders:"
+msgstr "Nombre de commande:"
+
+msgid "Custom CSS Style"
+msgstr "Css spécifique"
+
+msgid "Copy the shortcode into the page content editor"
+msgstr "Copiez le shortcode dans l'éditeur de contenu de page"
+
+msgid "In order to locate the widget in a custom location open"
+msgstr "Pour localiser le widget dans un emplacement personnalisé ouvrez"
+
+msgid "and add the following line"
+msgstr "et ajoutez la ligne suivante"
+
+msgid "in the requested location."
+msgstr "à l'emplacement demandé."
+
+msgid "Select language"
+msgstr "Séléctionnez langue"
+
+msgid "Submit past orders"
+msgstr "Envoyez les commandes"
+
+msgid "Update"
+msgstr "Mise à jour"
+
+msgid "French"
+msgstr "Français"
+
+msgid "English"
+msgstr "Englais"
+
+msgid "To get your api key and secret token"
+msgstr "Pour obtenir votre clé API et votre secret"
+
+msgid "connectez-vous ici"
+msgstr "log in here"
+
+msgid "To configure the design of your site widget just head to the Certishopping Dashboard"
+msgstr "Pour configurer le design de votre widget site "
+
+msgid "It only concerns the product page :"
+msgstr "Ça ne concerne que la page produit:"
+
+msgid "You can insert this shortcode to choose a location other than the one proposed by default"
+msgstr "Vous pouvez insérer ce bout de code pour choisir un emplacement autre que celui proposé par défaut"
+
+msgid "Select star rating location"
+msgstr "Sélectionnez la classification par étoiles de l'emplacement"
+
+msgid "single product"
+msgstr "single product"
+
+msgid "shortcode"
+msgstr "shortcode"
+
+msgid "Manual Collection Status"
+msgstr "Statut Collecte Manuelle"
